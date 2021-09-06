@@ -23,7 +23,8 @@
         "ext-mcrypt": "*",
         "ext-curl": "*",
         "ext-gd": "*",
-        "ext-mbstring": "*"
+        "ext-mbstring": "*",
+        "ext-bcmath": "*"
     },
     "platform-dev": []
 }
